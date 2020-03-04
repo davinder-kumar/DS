@@ -1,0 +1,14 @@
+Body{
+	height:100%;
+	weight:100%;
+}
+.node{
+	height:60px;
+	width:100px;
+	background-color:grey;
+	
+}
+.data,.next{
+height:100%;
+width:50%;
+}

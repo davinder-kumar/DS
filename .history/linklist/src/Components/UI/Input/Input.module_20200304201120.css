@@ -1,0 +1,16 @@
+.Row{
+    width:100%;
+    background-color: red;
+}
+.Row label{
+    width: 50%;
+    background-color:grey;
+    position: absolute;
+    right: 0px;
+}
+.Row input{
+    width: 50%;
+    background-color:green;
+    position: absolute;
+    right: 0px;
+}

@@ -1,0 +1,9 @@
+.Row{
+    width:100%;
+}
+.Row label{
+    width: 30%
+}
+.Row input{
+    width: 30%
+}

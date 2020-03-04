@@ -1,0 +1,40 @@
+Body{
+	height:100%;
+	weight:100%;
+}
+div{
+    display: inline-block;
+}
+.Node{
+	height:60px;
+	width:100px;
+	background-color:grey;
+	
+}
+.Data, .Next{
+height:100%;
+width:50%;
+}
+#head{
+    height:100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: lightgray;
+}
+.arrow_back{
+    width: 100px;
+    height:20px;
+    background-color: black;
+}
+.arrow_head{
+    width: 20px;
+    height:30px;
+    background-color: black;
+}
+/* .arrow{
+    display: inline-block;
+} */
+
+Button{
+    margin: 50px;
+}
